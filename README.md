@@ -2,7 +2,7 @@
 
 
 wordcloud_generation
-this project generates a word cloud by taking the tweets as input
+this project generates a word cloud by taking the several tweets of twitter as  the input
 
 project structure:
 
