@@ -16,4 +16,4 @@ src: holds the code file
 
 software required to run code file:
 
-Any Ooperating system, R software
+Any Operating system, R software
